@@ -11,7 +11,9 @@ I am chosing to represent music data using discrete MIDI values. <br/>
 ![midi](https://www.noterepeat.com/images/other/other_midi_terms_explained_2.png)
 
 # Knowledge Representation
-![BiLSTM](https://www.i2tutorials.com/wp-content/uploads/2019/05/Deep-Dive-into-Bidirectional-LSTM-i2tutorials.jpg)
+I am using Bidirectional LSTMs for both the generator and the discriminator <br/>
+![BiLSTM](https://www.i2tutorials.com/wp-content/uploads/2019/05/Deep-Dive-into-Bidirectional-LSTM-i2tutorials.jpg) <br/>
+Bidirectional LSTMs analyze the input sequence both forwards and backwards
 
 # Generator Architecture
 ![gen](https://raw.githubusercontent.com/vee-upatising/Music-BiLSTM-GAN/master/generator.JPG)
