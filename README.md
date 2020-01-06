@@ -2,7 +2,7 @@
 Composing Melodies with Bidirectional LSTM Generative Adversarial Networks
 
 # Results
-[Listen to Generated Song 1](https://vocaroo.com/embed/lMJ34mf5Rqg)
+[Listen to Generated Song 1](https://vocaroo.com/embed/lMJ34mf5Rqg) <br/>
 [Listen to Generated Song 2](https://vocaroo.com/embed/gKi1mFdOTQh)
 
 # Generator Architecture
