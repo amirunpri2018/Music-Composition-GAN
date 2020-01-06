@@ -17,7 +17,7 @@ I am using Bidirectional LSTMs for both the generator and the discriminator <br/
 * Both the generator and the discriminator are working against each other in an adversarial network. <br/>
 * The two networks are playing a minimax game, aiming to minimize the loss of the generator while maximizing the loss of the discriminator. <br/>
 ![LSTM GAN](https://raw.githubusercontent.com/vee-upatising/Music-BiLSTM-GAN/master/LSTM%20GAN.jpg)
-Put simply, the goal is to have the generator generate sequences that fool the discrimator into thinking that it is real.
+Put simply, the goal is to have the generator generate sequences that are indistinguishable from the training data in order to fool the discrimator into thinking that it is real.
 
 # Generator Architecture
 ![gen](https://raw.githubusercontent.com/vee-upatising/Music-BiLSTM-GAN/master/generator.JPG)
