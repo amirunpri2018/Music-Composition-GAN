@@ -25,4 +25,3 @@ Put simply, the goal is to have the generator generate sequences that fool the d
 ![disc](https://raw.githubusercontent.com/vee-upatising/Music-BiLSTM-GAN/master/discriminator.JPG)
 # Training
 ![epoch](https://raw.githubusercontent.com/vee-upatising/Music-BiLSTM-GAN/master/training.JPG)
-<br/>The models were trained for 1000 epochs and achieved this loss
