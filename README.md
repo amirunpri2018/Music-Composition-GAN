@@ -20,6 +20,8 @@ I am using Bidirectional LSTMs for both the generator and the discriminator <br/
 ![LSTM GAN](https://raw.githubusercontent.com/vee-upatising/Music-BiLSTM-GAN/master/LSTM%20GAN.jpg)
 Put simply, the goal is to have the generator generate sequences that are indistinguishable from the training data in order to fool the discrimator into thinking that it is real.
 
+# Generator Visualization
+![gen](https://raw.githubusercontent.com/vee-upatising/Music-BiLSTM-GAN/master/Dataset/model.png)
 # Generator Architecture
 ![gen](https://raw.githubusercontent.com/vee-upatising/Music-BiLSTM-GAN/master/generator.JPG)
 # Discriminator Architecture
