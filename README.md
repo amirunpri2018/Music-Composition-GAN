@@ -1,5 +1,5 @@
 # Music-BiLSTM-GAN
-Composing Melodies with Bidirectional LSTM Generative Adversarial Networks.<bt/>
+Composing Melodies with Bidirectional LSTM Generative Adversarial Networks.<br/>
 [Performance Survey](https://forms.gle/w7W2tviCPwV1qFqB6)
 
 # Results
