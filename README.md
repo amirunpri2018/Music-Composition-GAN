@@ -1,12 +1,13 @@
 # Music-BiLSTM-GAN
-Composing Melodies with Bidirectional LSTM Generative Adversarial Networks
+Composing Melodies with Bidirectional LSTM Generative Adversarial Networks.<bt/>
 [Performance Survey](https://forms.gle/w7W2tviCPwV1qFqB6)
 
 # Results
 [Listen to Generated Song 1](https://vocaroo.com/embed/lMJ34mf5Rqg) <br/>
 [Listen to Generated Song 2](https://vocaroo.com/embed/gKi1mFdOTQh) <br/>
-[Listen to Generated Song 3](https://vocaroo.com/embed/nWrBaR0Ic6d) <br/>
-[Listen to Generated Song 4](https://vocaroo.com/embed/kFIdruEpvQZ)
+[Listen to Generated Song 3](https://vocaroo.com/embed/coamstbW302) <br/>
+[Listen to Generated Song 4](https://vocaroo.com/embed/6PzGs4FXbDj)
+
 # Data Representation
 There are a lot of ways to represent music data. Soundwaves, Spectograms, etc... <br/>
 I am chosing to represent music data using discrete MIDI values. <br/>
