@@ -3,10 +3,11 @@ Composing Melodies with Bidirectional LSTM Generative Adversarial Networks.<br/>
 [Performance Survey](https://forms.gle/w7W2tviCPwV1qFqB6)
 
 # Results
-[Listen to Generated Song 1](https://vocaroo.com/embed/lMJ34mf5Rqg) <br/>
-[Listen to Generated Song 2](https://vocaroo.com/embed/gKi1mFdOTQh) <br/>
-[Listen to Generated Song 3](https://vocaroo.com/embed/coamstbW302) <br/>
-[Listen to Generated Song 4](https://vocaroo.com/embed/6PzGs4FXbDj)
+[Listen to Generated Song 1](https://vocaroo.com/embed/3o0h5ThkUPb) <br/>
+[Listen to Generated Song 2](https://vocaroo.com/embed/lMJ34mf5Rqg) <br/>
+[Listen to Generated Song 3](https://vocaroo.com/embed/gKi1mFdOTQh) <br/>
+[Listen to Generated Song 4](https://vocaroo.com/embed/coamstbW302) <br/>
+[Listen to Generated Song 5](https://vocaroo.com/embed/6PzGs4FXbDj)
 
 # Data Representation
 There are a lot of ways to represent music data. Soundwaves, Spectograms, etc... <br/>
