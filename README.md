@@ -30,4 +30,4 @@ Put simply, the goal is to have the generator generate sequences that are indist
 # Discriminator Architecture
 ![disc](https://raw.githubusercontent.com/vee-upatising/Music-BiLSTM-GAN/master/discriminator.JPG)
 # Training
-![epoch](https://raw.githubusercontent.com/vee-upatising/Music-BiLSTM-GAN/master/training.JPG)
+![epoch](https://i.imgur.com/ToNdaIm.png)
